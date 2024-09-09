@@ -24,7 +24,8 @@
 - Report Building
 
   
-#### **AtliQ Hardware Net Sales Performance Report:** This repository contains the net sales performance report of customers for AtliQ Hardware for the years 2019, 2020, and 2021. The report includes a comparison of the net sales performance between 2020 and 2021 in percentage terms.
+## AtliQ Hardware Net Sales Performance Report: 
+#### This repository contains the net sales performance report of customers for AtliQ Hardware for the years 2019, 2020, and 2021. The report includes a comparison of the net sales performance between 2020 and 2021 in percentage terms.
 
 This report provides a detailed analysis of the net sales performance of our customers over the past three years, with a particular focus on the percentage change between 2020 and 2021.
 
